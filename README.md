@@ -13,4 +13,11 @@ Spark jobs results in 1000s of HDFS part files containing all the relevant data 
 ## Objective 
 Our goal is to automate the above repetitive and time consuming tasks in order to allow data scientists and engineers to spend their valuable time dealing with the analysis of their data. 
 
-## To Run 
+## To-Do 
+<ol>
+  <li><strike>PR</strike></li>
+  <li><b>Data Loader</b>: parametrise variables</li>
+  <li>Add Redshift role</li>
+  <li>Comine whole process for automation, possible to use <a href="http://docs.fabfile.org/en/1.12/index.html">Fabric</a></li>
+  <li>Test</li>
+</ol>
