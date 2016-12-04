@@ -1,0 +1,14 @@
+{
+    "jsonpaths": [
+       "$.session_id",
+       "$.session_status",	
+       "$.start_tsp",
+       "$.end_tsp",
+       "$.last_updated",
+       "$.start_event_id",
+       "$.end_event_id",
+       "$.duration",
+       "$.nb_of_events"
+      ]
+}
+
